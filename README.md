@@ -1,7 +1,6 @@
 # python-api-challenge
 Title- Homework Module 6 API Challenge- Nick Fussy
 
-Jupyter notebook file can be found In the WeatherPy and VacationPy folders. Titled WeatherPy and VacationPy. Graphs and cites data is found in the output_data folder.
+Jupyter notebook files can be found in the folder entitled "Starter Code". Titled WeatherPy and VacationPy, respectively. Print outs of the graphs and cites data is found in the output_data folder.
 
-Collaboration with other students- I collaborated with Hunter Becker and Nicholas Fussy on completing this assignment. We helped each other when it came to issues, we encountered when creating our code. This was beneficial for troubleshooting we had run into.
-I also reviewed some of our in class activities to help create the graphs needed for this assignment.
+Collaboration with other students- I collaborated with Hunter Becker and Conner Dekok in completing this assignment. We approached each other with issues regarding the code and tried to rectify the issues together. This aided us all in completing the tasks in a timely manner. 
